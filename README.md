@@ -4,6 +4,18 @@ A research tool for visually exploring Bureau of Labor Statistics [Occupational 
 
 **Live demo: [karpathy.ai/jobs](https://karpathy.ai/jobs/)**
 
+---
+
+> 🌏 **Fork note:** This fork adds a **Chinese / English language toggle (中英文切换)** to the visualization — switch the whole UI and occupation labels between English and Chinese with one click. Everything else is unchanged from the upstream [karpathy/jobs](https://github.com/karpathy/jobs).
+
+## Screenshots / 界面预览
+
+The English / Chinese toggle added by this fork:
+
+| English | 中文 |
+|---|---|
+| ![English view](screenshots/en.png) | ![中文视图](screenshots/zh.png) |
+
 ## What's here
 
 The BLS OOH covers **342 occupations** spanning every sector of the US economy, with detailed data on job duties, work environment, education requirements, pay, and employment projections. We scraped all of it and built an interactive treemap visualization where each rectangle's **area** is proportional to total employment and **color** shows the selected metric — toggle between BLS projected growth outlook, median pay, education requirements, and AI exposure.
