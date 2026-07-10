@@ -6,7 +6,9 @@ A research tool for visually exploring Bureau of Labor Statistics [Occupational 
 
 ---
 
-> 🌏 **Fork note:** This fork adds a **Chinese / English language toggle (中英文切换)** to the visualization — switch the whole UI and occupation labels between English and Chinese with one click. Everything else is unchanged from the upstream [karpathy/jobs](https://github.com/karpathy/jobs).
+> 🌏 **Fork note:** This fork adds a **Chinese / English language toggle (中英文切换)** to the visualization 
+> — [**Click here for the Live Demo**](https://jobs-iota-rose.vercel.app/).
+> — switch the whole UI and occupation labels between English and Chinese with one click. Everything else is unchanged from the upstream [karpathy/jobs](https://github.com/karpathy/jobs).
 
 ## Screenshots / 界面预览
 
